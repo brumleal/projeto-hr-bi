@@ -1,0 +1,107 @@
+"EMPLOYEE_ID","FIRST_NAME","LAST_NAME","DEPARTMENT_NAME","JOB_TITLE","SALARY","MIN_SALARY","MAX_SALARY"
+205,"Shelley","Higgins","Accounting","Accounting Manager",12008,8200,16000
+206,"William","Gietz","Accounting","Public Accountant",8300,4200,9000
+200,"Jennifer","Whalen","Administration","Administration Assistant",4400,3000,6000
+100,"Steven","King","Executive","President",24000,20080,40000
+101,"Neena","Yang","Executive","Administration Vice President",17000,15000,30000
+102,"Lex","Garcia","Executive","Administration Vice President",17000,15000,30000
+108,"Nancy","Gruenberg","Finance","Finance Manager",12008,8200,16000
+109,"Daniel","Faviet","Finance","Accountant",9000,4200,9000
+110,"John","Chen","Finance","Accountant",8200,4200,9000
+112,"Jose Manuel","Urman","Finance","Accountant",7800,4200,9000
+111,"Ismael","Sciarra","Finance","Accountant",7700,4200,9000
+113,"Luis","Popp","Finance","Accountant",6900,4200,9000
+203,"Susan","Jacobs","Human Resources","Human Resources Representative",6500,4000,9000
+103,"Alexander","James","IT","Programmer",9000,4000,10000
+104,"Bruce","Miller","IT","Programmer",6000,4000,10000
+105,"David","Williams","IT","Programmer",4800,4000,10000
+106,"Valli","Jackson","IT","Programmer",4800,4000,10000
+107,"Diana","Nguyen","IT","Programmer",4200,4000,10000
+201,"Michael","Martinez","Marketing","Marketing Manager",13000,9000,15000
+202,"Pat","Davis","Marketing","Marketing Representative",6000,4000,9000
+204,"Hermann","Brown","Public Relations","Public Relations Representative",10000,4500,10500
+114,"Den","Li","Purchasing","Purchasing Manager",11000,8000,15000
+115,"Alexander","Khoo","Purchasing","Purchasing Clerk",3100,2500,5500
+116,"Shelli","Baida","Purchasing","Purchasing Clerk",2900,2500,5500
+117,"Sigal","Tobias","Purchasing","Purchasing Clerk",2800,2500,5500
+118,"Guy","Himuro","Purchasing","Purchasing Clerk",2600,2500,5500
+119,"Karen","Colmenares","Purchasing","Purchasing Clerk",2500,2500,5500
+145,"John","Singh","Sales","Sales Manager",14000,10000,20080
+146,"Karen","Partners","Sales","Sales Manager",13500,10000,20080
+147,"Alberto","Errazuriz","Sales","Sales Manager",12000,10000,20080
+168,"Lisa","Ozer","Sales","Sales Representative",11500,6000,12008
+148,"Gerald","Cambrault","Sales","Sales Manager",11000,10000,20080
+174,"Ellen","Abel","Sales","Sales Representative",11000,6000,12008
+162,"Clara","Vishney","Sales","Sales Representative",10500,6000,12008
+149,"Eleni","Zlotkey","Sales","Sales Manager",10500,10000,20080
+150,"Sean","Tucker","Sales","Sales Representative",10000,6000,12008
+169,"Harrison","Bloom","Sales","Sales Representative",10000,6000,12008
+156,"Janette","King","Sales","Sales Representative",10000,6000,12008
+170,"Tayler","Fox","Sales","Sales Representative",9600,6000,12008
+157,"Patrick","Sully","Sales","Sales Representative",9500,6000,12008
+151,"David","Bernstein","Sales","Sales Representative",9500,6000,12008
+163,"Danielle","Greene","Sales","Sales Representative",9500,6000,12008
+152,"Peter","Hall","Sales","Sales Representative",9000,6000,12008
+158,"Allan","McEwen","Sales","Sales Representative",9000,6000,12008
+175,"Alyssa","Hutton","Sales","Sales Representative",8800,6000,12008
+176,"Jonathon","Taylor","Sales","Sales Representative",8600,6000,12008
+177,"Jack","Livingston","Sales","Sales Representative",8400,6000,12008
+153,"Christopher","Olsen","Sales","Sales Representative",8000,6000,12008
+159,"Lindsey","Smith","Sales","Sales Representative",8000,6000,12008
+154,"Nanette","Cambrault","Sales","Sales Representative",7500,6000,12008
+160,"Louise","Doran","Sales","Sales Representative",7500,6000,12008
+171,"William","Smith","Sales","Sales Representative",7400,6000,12008
+172,"Elizabeth","Bates","Sales","Sales Representative",7300,6000,12008
+164,"Mattea","Marvins","Sales","Sales Representative",7200,6000,12008
+155,"Oliver","Tuvault","Sales","Sales Representative",7000,6000,12008
+161,"Sarath","Sewall","Sales","Sales Representative",7000,6000,12008
+165,"David","Lee","Sales","Sales Representative",6800,6000,12008
+166,"Sundar","Ande","Sales","Sales Representative",6400,6000,12008
+179,"Charles","Johnson","Sales","Sales Representative",6200,6000,12008
+167,"Amit","Banda","Sales","Sales Representative",6200,6000,12008
+173,"Sundita","Kumar","Sales","Sales Representative",6100,6000,12008
+121,"Adam","Fripp","Shipping","Stock Manager",8200,5500,8500
+120,"Matthew","Weiss","Shipping","Stock Manager",8000,5500,8500
+122,"Payam","Kaufling","Shipping","Stock Manager",7900,5500,8500
+123,"Shanta","Vollman","Shipping","Stock Manager",6500,5500,8500
+124,"Kevin","Mourgos","Shipping","Stock Manager",5800,5500,8500
+184,"Nandita","Sarchand","Shipping","Shipping Clerk",4200,2500,5500
+185,"Alexis","Bull","Shipping","Shipping Clerk",4100,2500,5500
+192,"Sarah","Bell","Shipping","Shipping Clerk",4000,2500,5500
+193,"Britney","Everett","Shipping","Shipping Clerk",3900,2500,5500
+188,"Kelly","Chung","Shipping","Shipping Clerk",3800,2500,5500
+189,"Jennifer","Dilly","Shipping","Shipping Clerk",3600,2500,5500
+137,"Renske","Ladwig","Shipping","Stock Clerk",3600,2008,5000
+141,"Trenna","Rajs","Shipping","Stock Clerk",3500,2008,5000
+186,"Julia","Dellinger","Shipping","Shipping Clerk",3400,2500,5500
+129,"Laura","Bissot","Shipping","Stock Clerk",3300,2008,5000
+133,"Jason","Mallin","Shipping","Stock Clerk",3300,2008,5000
+194,"Samuel","McLeod","Shipping","Shipping Clerk",3200,2500,5500
+180,"Winston","Taylor","Shipping","Shipping Clerk",3200,2500,5500
+138,"Stephen","Stiles","Shipping","Stock Clerk",3200,2008,5000
+125,"Julia","Nayer","Shipping","Stock Clerk",3200,2008,5000
+196,"Alana","Walsh","Shipping","Shipping Clerk",3100,2500,5500
+181,"Jean","Fleaur","Shipping","Shipping Clerk",3100,2500,5500
+142,"Curtis","Davies","Shipping","Stock Clerk",3100,2008,5000
+187,"Anthony","Cabrio","Shipping","Shipping Clerk",3000,2500,5500
+197,"Kevin","Feeney","Shipping","Shipping Clerk",3000,2500,5500
+190,"Timothy","Venzl","Shipping","Shipping Clerk",2900,2500,5500
+134,"Michael","Rogers","Shipping","Stock Clerk",2900,2008,5000
+183,"Girard","Geoni","Shipping","Shipping Clerk",2800,2500,5500
+130,"Mozhe","Atkinson","Shipping","Stock Clerk",2800,2008,5000
+195,"Vance","Jones","Shipping","Shipping Clerk",2800,2500,5500
+139,"John","Seo","Shipping","Stock Clerk",2700,2008,5000
+126,"Irene","Mikkilineni","Shipping","Stock Clerk",2700,2008,5000
+198,"Donald","OConnell","Shipping","Shipping Clerk",2600,2500,5500
+199,"Douglas","Grant","Shipping","Shipping Clerk",2600,2500,5500
+143,"Randall","Matos","Shipping","Stock Clerk",2600,2008,5000
+182,"Martha","Sullivan","Shipping","Shipping Clerk",2500,2500,5500
+140,"Joshua","Patel","Shipping","Stock Clerk",2500,2008,5000
+131,"James","Marlow","Shipping","Stock Clerk",2500,2008,5000
+191,"Randall","Perkins","Shipping","Shipping Clerk",2500,2500,5500
+144,"Peter","Vargas","Shipping","Stock Clerk",2500,2008,5000
+127,"James","Landry","Shipping","Stock Clerk",2400,2008,5000
+135,"Ki","Gee","Shipping","Stock Clerk",2400,2008,5000
+128,"Steven","Markle","Shipping","Stock Clerk",2200,2008,5000
+136,"Hazel","Philtanker","Shipping","Stock Clerk",2200,2008,5000
+132,"TJ","Olson","Shipping","Stock Clerk",2100,2008,5000
