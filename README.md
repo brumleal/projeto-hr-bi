@@ -75,24 +75,22 @@ O script `src/analise.py` realiza:
 ## 6. Como executar
 
 **Pré-requisitos:** Python 3.9+ e Git.
-
 ```bash
-
+# 1. Clonar o repositório
 git clone https://github.com/brumleal/projeto-hr-bi.git
 cd projeto-hr-bi
 
-l
+# 2. (Opcional) criar ambiente virtual
 python -m venv venv
-source venv/bin/activate        
+venv\Scripts\activate           # Windows
+# source venv/bin/activate      # Mac/Linux
 
-
+# 3. Instalar as bibliotecas
 pip install -r requirements.txt
 
-
+# 4. Executar a análise
 python src/analise.py
 ```
-
-Os gráficos serão gerados na pasta `images/`.
 
 **Para regerar os CSVs (opcional):**
 1. Acesse https://freesql.com/ e entre no esquema HR.
